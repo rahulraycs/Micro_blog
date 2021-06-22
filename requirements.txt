@@ -1,10 +1,2 @@
-click
-colorama
-dnspython
 Flask
-itsdangerous
-Jinja2
-MarkupSafe
 pymongo[srv]
-Werkzeug
-gunicorn
